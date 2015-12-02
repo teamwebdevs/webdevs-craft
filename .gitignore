@@ -1,0 +1,12 @@
+.DS_Store
+*.sassc
+.sass-cache
+*.css.map
+/node_modules
+/src/bower
+/.idea
+/doc
+dist/craft/app
+dist/craft/storage/*
+!dist/craft/storage/logo/*
+dist/craft/config/db.php
